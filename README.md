@@ -70,12 +70,10 @@ I also occasionally write articles about ML and DL research: https://medium.com/
 
 ### Featured Repositories :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Intro-To-Deep-Learning-Systems&repo=Using-Video-summarization-techniques-for-effective-search-indexing)](https://github.com/Intro-To-Deep-Learning-Systems/Using-Video-summarization-techniques-for-effective-search-indexing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=printwatch)](https://github.com/ashwin2k/printwatch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Intro-To-Deep-Learning-Systems&repo=Using-Video-summarization-techniques-for-effective-search-indexing)](https://github.com/Intro-To-Deep-Learning-Systems/Using-Video-summarization-techniques-for-effective-search-indexing) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=printwatch)](https://github.com/ashwin2k/printwatch) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=LibraAI)](https://github.com/ashwin2k/LibraAI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=FindMyLight)](https://github.com/ashwin2k/FindMyLight)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=MarkMe-App)](https://github.com/ashwin2k/MarkMe-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=Self-Driving-Cars---Lane-detection)](https://github.com/ashwin2k/Self-Driving-Cars---Lane-detection)
-
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=cloud-connect-)](https://github.com/ashwin2k/cloud-connect-)
