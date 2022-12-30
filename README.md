@@ -18,11 +18,13 @@
 </div>
 </div>
 
+---
 ### :man_technologist: About Me :
 Hi! I am Ashwin Kumar Udayakumar *(he/him)*. I am an master's in computer science student at New York University (Courant). My academic and work areas include software engineering and machine learning. I also have work experience in compiler optimization, full stack development, machine learning, mobile application development, server-side programming, and cloud computing. I also host my several personal projects (and open-source projects) on GitHub - www.github.com/ashwin2k
 
 I also occasionally write articles about ML and DL research: https://medium.com/@ashwin102000
 
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -51,10 +53,11 @@ I also occasionally write articles about ML and DL research: https://medium.com/
   
 </div>
 
-### :bar_chart: Stats
+---
+### :bar_chart: Stats : 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwin2k&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;
-![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin2k&show_icons=true&theme=merko)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwin2k&theme=dark&background=151515)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;
+![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin2k&show_icons=true&theme=dark)
 
 ---
 ### :writing_hand: Blog Posts :
@@ -64,4 +67,14 @@ I also occasionally write articles about ML and DL research: https://medium.com/
 - [Going green by recycling predictions!](https://medium.com/@ashwin102000/going-green-by-recycling-predictions-8945f44d3a9c?source=rss-8de9672b3c31------2)
 - [Early Exiting for Image Captioning Models](https://medium.com/@ashwin102000/early-exiting-for-image-captioning-models-dfb42cc7a5d2?source=rss-8de9672b3c31------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Featured Repositories :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Intro-To-Deep-Learning-Systems&repo=Using-Video-summarization-techniques-for-effective-search-indexing)](https://github.com/Intro-To-Deep-Learning-Systems/Using-Video-summarization-techniques-for-effective-search-indexing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=printwatch)](https://github.com/ashwin2k/printwatch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=LibraAI)](https://github.com/ashwin2k/LibraAI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=FindMyLight)](https://github.com/ashwin2k/FindMyLight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=MarkMe-App)](https://github.com/ashwin2k/MarkMe-App)
+
+
 
