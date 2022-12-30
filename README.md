@@ -6,14 +6,14 @@
 
 <div align="center">
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ashwin-kumar14/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://medium.com/@ashwin102000">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-<a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+<a href="mailto:ashwin102000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 </div>
 </div>
@@ -68,7 +68,9 @@ I also occasionally write articles about ML and DL research: https://medium.com/
 - [Early Exiting for Image Captioning Models](https://medium.com/@ashwin102000/early-exiting-for-image-captioning-models-dfb42cc7a5d2?source=rss-8de9672b3c31------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Featured Repositories :
+---
+
+### 🔥Featured Repositories :
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Intro-To-Deep-Learning-Systems&repo=Using-Video-summarization-techniques-for-effective-search-indexing)](https://github.com/Intro-To-Deep-Learning-Systems/Using-Video-summarization-techniques-for-effective-search-indexing) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=printwatch)](https://github.com/ashwin2k/printwatch) 
