@@ -60,5 +60,8 @@ I also occasionally write articles about ML and DL research: https://medium.com/
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing heavy models with early exit branches](https://medium.com/@ashwin102000/optimizing-heavy-models-with-early-exit-branches-466759f96d93?source=rss-8de9672b3c31------2)
+- [Going green by recycling predictions!](https://medium.com/@ashwin102000/going-green-by-recycling-predictions-8945f44d3a9c?source=rss-8de9672b3c31------2)
+- [Early Exiting for Image Captioning Models](https://medium.com/@ashwin102000/early-exiting-for-image-captioning-models-dfb42cc7a5d2?source=rss-8de9672b3c31------2)
 <!-- BLOG-POST-LIST:END -->
 
