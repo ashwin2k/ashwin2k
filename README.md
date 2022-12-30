@@ -75,6 +75,7 @@ I also occasionally write articles about ML and DL research: https://medium.com/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=LibraAI)](https://github.com/ashwin2k/LibraAI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=FindMyLight)](https://github.com/ashwin2k/FindMyLight)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=MarkMe-App)](https://github.com/ashwin2k/MarkMe-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=Self-Driving-Cars---Lane-detection)](https://github.com/ashwin2k/Self-Driving-Cars---Lane-detection)
 
 
 
