@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./img/IMG_1404.JPG" width="100" style="border-radius: 50%;"/>
+  <img src="./img/IMG_1404.JPG" width="100" style="border-radius:50%"/>
 </div>
 <br\>
 <div align="center"><h2>Ashwin Kumar Udayakumar</h2></div> 
@@ -50,3 +50,15 @@ I also occasionally write articles about ML and DL research: https://medium.com/
   
   
 </div>
+
+### :bar_chart: Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwin2k&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;
+![Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin2k&show_icons=true&theme=merko)
+
+---
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
