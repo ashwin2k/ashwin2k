@@ -79,3 +79,6 @@ I also occasionally write articles about ML and DL research: https://medium.com/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=MarkMe-App)](https://github.com/ashwin2k/MarkMe-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=Self-Driving-Cars---Lane-detection)](https://github.com/ashwin2k/Self-Driving-Cars---Lane-detection)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=cloud-connect-)](https://github.com/ashwin2k/cloud-connect-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashwin2k&repo=AnimeGAN)](https://github.com/ashwin2k/AnimeGAN)
+
+
